@@ -1,4 +1,4 @@
-# -Fundamentals-of-parallel-computing-
+# Fundamentals of parallel computing
 
 lab # 1 
 
