@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nsasa\\Desktop\\learn\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0445 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u0439\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CADE33-319C-46C6-A97F-164E97BDAEEB}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\nsasa\\Desktop\\learn\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0445 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u0439\\lab1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05CADE33-319C-46C6-A97F-164E97BDAEEB}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\nsasa\\Desktop\\learn\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0445 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u0439\\lab1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\nsasa\\Desktop\\learn\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0445 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u0439\\lab1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T13:57:02.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
