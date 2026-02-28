@@ -73,6 +73,9 @@ py -3 plot_matrixmult_time.py
 Результат:
 - `data/time_vs_size.png` — график зависимости времени перемножения от размера матрицы.
 
+- <img width="1200" height="750" alt="time_vs_size" src="https://github.com/user-attachments/assets/1de3bdb7-5e0b-4c2d-8f6f-86a37a958e5b" />
+
+
 ## Примечания
 - Формат файлов матриц: текст, целые числа, разделенные пробелами.
 - Если для какого-то размера верификация дает `False`, нужно пересчитать `C_n` запуском `matrixmult.exe`.
